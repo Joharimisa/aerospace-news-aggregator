@@ -44,6 +44,4 @@ A production-ready, responsive web application that automatically scrapes, parse
 - `GET /api/stats` - Get statistics
 - `POST /api/trigger-scrape` - Manually trigger scraping (for testing)
 
-## License
 
-MIT License
